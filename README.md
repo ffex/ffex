@@ -12,7 +12,7 @@ _Senior Full-Stack Software Developer_
 const ffex = {
     pronouns: "he" | "him",
     description: "🧭 Traveller & curious researcher.",
-    code: [Javascript, Typescript, HTML, CSS, Java, C#, Python, php],
+    code: ["Javascript", "Typescript", "HTML", "CSS", "Java", "C#", "Python", "php"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
